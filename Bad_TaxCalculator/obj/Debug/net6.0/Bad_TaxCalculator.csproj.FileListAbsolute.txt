@@ -1,0 +1,12 @@
+C:\Users\Ali\source\repos\iteasy_Bad_TaxCalculator\Bad_TaxCalculator\bin\Debug\net6.0\Bad_TaxCalculator.deps.json
+C:\Users\Ali\source\repos\iteasy_Bad_TaxCalculator\Bad_TaxCalculator\bin\Debug\net6.0\Bad_TaxCalculator.dll
+C:\Users\Ali\source\repos\iteasy_Bad_TaxCalculator\Bad_TaxCalculator\bin\Debug\net6.0\Bad_TaxCalculator.pdb
+C:\Users\Ali\source\repos\iteasy_Bad_TaxCalculator\Bad_TaxCalculator\obj\Debug\net6.0\Bad_TaxCalculator.csproj.AssemblyReference.cache
+C:\Users\Ali\source\repos\iteasy_Bad_TaxCalculator\Bad_TaxCalculator\obj\Debug\net6.0\Bad_TaxCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\source\repos\iteasy_Bad_TaxCalculator\Bad_TaxCalculator\obj\Debug\net6.0\Bad_TaxCalculator.AssemblyInfoInputs.cache
+C:\Users\Ali\source\repos\iteasy_Bad_TaxCalculator\Bad_TaxCalculator\obj\Debug\net6.0\Bad_TaxCalculator.AssemblyInfo.cs
+C:\Users\Ali\source\repos\iteasy_Bad_TaxCalculator\Bad_TaxCalculator\obj\Debug\net6.0\Bad_TaxCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\iteasy_Bad_TaxCalculator\Bad_TaxCalculator\obj\Debug\net6.0\Bad_TaxCalculator.dll
+C:\Users\Ali\source\repos\iteasy_Bad_TaxCalculator\Bad_TaxCalculator\obj\Debug\net6.0\refint\Bad_TaxCalculator.dll
+C:\Users\Ali\source\repos\iteasy_Bad_TaxCalculator\Bad_TaxCalculator\obj\Debug\net6.0\Bad_TaxCalculator.pdb
+C:\Users\Ali\source\repos\iteasy_Bad_TaxCalculator\Bad_TaxCalculator\obj\Debug\net6.0\ref\Bad_TaxCalculator.dll

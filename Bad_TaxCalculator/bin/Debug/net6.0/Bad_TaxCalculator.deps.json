@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Bad_TaxCalculator/1.0.0": {
+        "runtime": {
+          "Bad_TaxCalculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bad_TaxCalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
