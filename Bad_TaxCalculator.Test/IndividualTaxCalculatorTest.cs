@@ -6,6 +6,25 @@ namespace Bad_TaxCalculator.Test
     {
 
         [Fact]
+        public void Disable_Taxpayer_SHOULD_Pay_Zero_Percent_Tax()
+        {
+            //ARRANGE
+            TaxPayer taxPayer = new TaxPayer
+            {
+                TaxCitizen=true,
+                HasDisability = true
+            };
+            IndividualTaxCalculator individualTaxCalculator = new IndividualTaxCalculator();
+
+            //Act
+           var Result= individualTaxCalculator.CalculateTaxPercentage(taxPayer);
+
+            //Assert
+            Assert.Equal(0, Result);
+        }
+
+
+        [Fact]
         public void None_TaxResident_SHOULD_NOT_BE_Calculated()
         {
             //ARRANGE
