@@ -1680,6 +1680,16 @@
         "runtime": {
           "bin/placeholder/Bad_TaxCalculator.dll": {}
         }
+      },
+      "iteasy_IndividualTaxCalculator/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/iteasy_IndividualTaxCalculator.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/iteasy_IndividualTaxCalculator.dll": {}
+        }
       }
     }
   },
@@ -5981,6 +5991,11 @@
       "type": "project",
       "path": "../Bad_TaxCalculator/Bad_TaxCalculator.csproj",
       "msbuildProject": "../Bad_TaxCalculator/Bad_TaxCalculator.csproj"
+    },
+    "iteasy_IndividualTaxCalculator/1.0.0": {
+      "type": "project",
+      "path": "../iteasy_IndividualTaxCalculator/iteasy_IndividualTaxCalculator.csproj",
+      "msbuildProject": "../iteasy_IndividualTaxCalculator/iteasy_IndividualTaxCalculator.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5988,6 +6003,7 @@
       "Bad_TaxCalculator >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.1.0",
       "coverlet.collector >= 3.1.2",
+      "iteasy_IndividualTaxCalculator >= 1.0.0",
       "xunit >= 2.4.1",
       "xunit.runner.visualstudio >= 2.4.3"
     ]
@@ -6029,6 +6045,9 @@
           "projectReferences": {
             "C:\\Users\\Ali\\source\\repos\\iteasy_Bad_TaxCalculator\\Bad_TaxCalculator\\Bad_TaxCalculator.csproj": {
               "projectPath": "C:\\Users\\Ali\\source\\repos\\iteasy_Bad_TaxCalculator\\Bad_TaxCalculator\\Bad_TaxCalculator.csproj"
+            },
+            "C:\\Users\\Ali\\source\\repos\\iteasy_Bad_TaxCalculator\\iteasy_IndividualTaxCalculator\\iteasy_IndividualTaxCalculator.csproj": {
+              "projectPath": "C:\\Users\\Ali\\source\\repos\\iteasy_Bad_TaxCalculator\\iteasy_IndividualTaxCalculator\\iteasy_IndividualTaxCalculator.csproj"
             }
           }
         }

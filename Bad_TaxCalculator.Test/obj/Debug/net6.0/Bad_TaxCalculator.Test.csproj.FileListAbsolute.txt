@@ -100,3 +100,5 @@ C:\Users\Ali\source\repos\iteasy_Bad_TaxCalculator\Bad_TaxCalculator.Test\obj\De
 C:\Users\Ali\source\repos\iteasy_Bad_TaxCalculator\Bad_TaxCalculator.Test\obj\Debug\net6.0\Bad_TaxCalculator.Test.pdb
 C:\Users\Ali\source\repos\iteasy_Bad_TaxCalculator\Bad_TaxCalculator.Test\obj\Debug\net6.0\Bad_TaxCalculator.Test.genruntimeconfig.cache
 C:\Users\Ali\source\repos\iteasy_Bad_TaxCalculator\Bad_TaxCalculator.Test\obj\Debug\net6.0\ref\Bad_TaxCalculator.Test.dll
+C:\Users\Ali\source\repos\iteasy_Bad_TaxCalculator\Bad_TaxCalculator.Test\bin\Debug\net6.0\iteasy_IndividualTaxCalculator.dll
+C:\Users\Ali\source\repos\iteasy_Bad_TaxCalculator\Bad_TaxCalculator.Test\bin\Debug\net6.0\iteasy_IndividualTaxCalculator.pdb

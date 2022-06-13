@@ -23,6 +23,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Bad_TaxCalculator\Bad_TaxCalculator.csproj" />
+    <ProjectReference Include="..\iteasy_IndividualTaxCalculator\iteasy_IndividualTaxCalculator.csproj" />
   </ItemGroup>
 
 </Project>

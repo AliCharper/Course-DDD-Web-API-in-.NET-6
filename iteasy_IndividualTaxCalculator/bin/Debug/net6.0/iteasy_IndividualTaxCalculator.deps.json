@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "iteasy_IndividualTaxCalculator/1.0.0": {
+        "runtime": {
+          "iteasy_IndividualTaxCalculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "iteasy_IndividualTaxCalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

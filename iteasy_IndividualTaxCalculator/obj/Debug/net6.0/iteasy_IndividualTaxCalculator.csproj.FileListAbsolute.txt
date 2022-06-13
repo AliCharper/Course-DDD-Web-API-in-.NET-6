@@ -1,0 +1,12 @@
+C:\Users\Ali\source\repos\iteasy_Bad_TaxCalculator\iteasy_IndividualTaxCalculator\obj\Debug\net6.0\iteasy_IndividualTaxCalculator.csproj.AssemblyReference.cache
+C:\Users\Ali\source\repos\iteasy_Bad_TaxCalculator\iteasy_IndividualTaxCalculator\obj\Debug\net6.0\iteasy_IndividualTaxCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\source\repos\iteasy_Bad_TaxCalculator\iteasy_IndividualTaxCalculator\obj\Debug\net6.0\iteasy_IndividualTaxCalculator.AssemblyInfoInputs.cache
+C:\Users\Ali\source\repos\iteasy_Bad_TaxCalculator\iteasy_IndividualTaxCalculator\obj\Debug\net6.0\iteasy_IndividualTaxCalculator.AssemblyInfo.cs
+C:\Users\Ali\source\repos\iteasy_Bad_TaxCalculator\iteasy_IndividualTaxCalculator\obj\Debug\net6.0\iteasy_IndividualTaxCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\iteasy_Bad_TaxCalculator\iteasy_IndividualTaxCalculator\bin\Debug\net6.0\iteasy_IndividualTaxCalculator.deps.json
+C:\Users\Ali\source\repos\iteasy_Bad_TaxCalculator\iteasy_IndividualTaxCalculator\bin\Debug\net6.0\iteasy_IndividualTaxCalculator.dll
+C:\Users\Ali\source\repos\iteasy_Bad_TaxCalculator\iteasy_IndividualTaxCalculator\bin\Debug\net6.0\iteasy_IndividualTaxCalculator.pdb
+C:\Users\Ali\source\repos\iteasy_Bad_TaxCalculator\iteasy_IndividualTaxCalculator\obj\Debug\net6.0\iteasy_IndividualTaxCalculator.dll
+C:\Users\Ali\source\repos\iteasy_Bad_TaxCalculator\iteasy_IndividualTaxCalculator\obj\Debug\net6.0\refint\iteasy_IndividualTaxCalculator.dll
+C:\Users\Ali\source\repos\iteasy_Bad_TaxCalculator\iteasy_IndividualTaxCalculator\obj\Debug\net6.0\iteasy_IndividualTaxCalculator.pdb
+C:\Users\Ali\source\repos\iteasy_Bad_TaxCalculator\iteasy_IndividualTaxCalculator\obj\Debug\net6.0\ref\iteasy_IndividualTaxCalculator.dll

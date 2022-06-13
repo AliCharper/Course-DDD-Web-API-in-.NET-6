@@ -15,7 +15,6 @@ namespace Bad_TaxCalculator.Entity
         public bool IsRetired { get; set; }
         public bool MaritalStatus { get; set; }
 
-
     }
 
 }

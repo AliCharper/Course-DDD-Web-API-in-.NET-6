@@ -1,30 +1,55 @@
-using Bad_TaxCalculator.Entity;
+
+
+using iteasy_IndividualTaxCalculator.Entity;
+using iteasy_IndividualTaxCalculator.Services;
 
 namespace Bad_TaxCalculator.Test
 {
     public class IndividualTaxCalculatorTest
     {
-
-
-        private TaXCalculator _calculator = new TaXCalculator();
+        private TaxCalculatorService _calculator = new TaxCalculatorService();
 
         [Fact]
-        public void Retired_Taxpayer_SHOULD_Pay_ONE_Percent_Tax()
+        public void Income_For_Single_TaxPayer()
         {
             //ARRANGE
             TaxPayer taxPayer = new TaxPayer
             {
-                TaxCitizen = true,
-                HasDisability = false,
-                IsRetired = true
+                GrossIncome = 300000,
+                IsSingle = true,                
+                IsResidentOrCitizen = true,
             };
 
             //Act
             var result = _calculator.CalculateTaxPercentage(taxPayer);
 
             //Assert
-            Assert.Equal(1, result);
+            Assert.Equal(23000, result.TaxedAmount);
         }
+
+
+
+
+
+        //private TaXCalculator _calculator = new TaXCalculator();
+
+        //[Fact]
+        //public void Retired_Taxpayer_SHOULD_Pay_ONE_Percent_Tax()
+        //{
+        //    //ARRANGE
+        //    TaxPayer taxPayer = new TaxPayer
+        //    {
+        //        TaxCitizen = true,
+        //        HasDisability = false,
+        //        IsRetired = true
+        //    };
+
+        //    //Act
+        //    var result = _calculator.CalculateTaxPercentage(taxPayer);
+
+        //    //Assert
+        //    Assert.Equal(1, result);
+        //}
 
 
 

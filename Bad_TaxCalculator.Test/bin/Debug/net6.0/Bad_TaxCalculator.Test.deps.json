@@ -11,6 +11,7 @@
           "Bad_TaxCalculator": "1.0.0",
           "Microsoft.NET.Test.Sdk": "17.1.0",
           "coverlet.collector": "3.1.2",
+          "iteasy_IndividualTaxCalculator": "1.0.0",
           "xunit": "2.4.1",
           "xunit.runner.visualstudio": "2.4.3"
         },
@@ -1094,6 +1095,11 @@
         "runtime": {
           "Bad_TaxCalculator.dll": {}
         }
+      },
+      "iteasy_IndividualTaxCalculator/1.0.0": {
+        "runtime": {
+          "iteasy_IndividualTaxCalculator.dll": {}
+        }
       }
     }
   },
@@ -1748,6 +1754,11 @@
       "hashPath": "xunit.runner.visualstudio.2.4.3.nupkg.sha512"
     },
     "Bad_TaxCalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "iteasy_IndividualTaxCalculator/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
